@@ -5,6 +5,4 @@ This is a simple demonstration of `climwin` to 1) determine the window in which 
 
 <img src="/figures/ribbon.png" width="600" />-
 
-<br>  
-
 <img src="/figures/predictions_2020.png" width="600" />-
